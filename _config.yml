@@ -65,7 +65,7 @@ links:
 timezone:    Europe/Paris
 future:      true
 #was pygments
-highlighter: null 
+highlighter: pygments 
 markdown:    kramdown
 paginate:    6
 paginate_path: "page:num"
