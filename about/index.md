@@ -15,14 +15,10 @@ It was the second one for me, but I was lucky, I've mostly recovered - once agai
 
 I still have some imbalance issues, so instead of riding a normal upright bicycle, I now ride a recumbent tadpole trike. 
 It's a three wheeled recumbent "bicycle", tricycle. 
-I'm happier than ever to be able to enjoy outdoor rides using the power from my legs.
-
->Even if you have a terminal disease, you don't have to sit down and mope. Enjoy life and challenge the illness that you have.
-><cite><small>Nelson Mandela</small></cite>
 
 On summer 2015 I went to see Finnish Recumbent Racing Championships and decided to participate on 2016.
 Then I got an idea to attempt to make a Finnish national record, and as one thing leads always to another, my goal is now
-the WRRA One hour record. You can read more about this record by following the link in the upper left menu.
+the WRRA One hour record. You can read more about this record from [a dedicated page](../project).
 
 I have contracted CARBONTRIKES to build me a custom racing trike and currently following a training plan by TrainerRoad. 
 I'm dead serious about this.

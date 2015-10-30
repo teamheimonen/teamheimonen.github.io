@@ -28,13 +28,23 @@ The time trial will be photographed and filmed according to WRRA requirements, p
 
 ## About the hour record
 
->&quot;The hour record is the record for the longest distance cycled in one hour on a bicycle from a stationary start. Cyclists attempt this record alone on the track without other competitors present. It is considered perhaps the most prestigious record in all of cycling. Over history, various cyclists ranging from unknown amateurs to well-known professionals have held the record, adding to its prestige and allure.&quot;
+>&quot;The hour record is the record for the longest distance cycled in one hour on a bicycle from a 
+stationary start. Cyclists attempt this record alone on the track without other competitors present. 
+It is considered perhaps the most prestigious record in all of cycling. Over history, various 
+cyclists ranging from unknown amateurs to well-known professionals have held the record, adding 
+to its prestige and allure.
+There are several records, the most famous of  which is for upright bicycles meeting the requirements of 
+the Union Cycliste Internationale (UCI).&quot;
 <cite><small>Wikipedia</small></cite>
 
 
-There are several records, the most famous of which is for upright bicycles meeting the requirements of 
-the Union Cycliste Internationale (UCI). However, UCI rules do not accept recumbent bicyles nor tricycles at all. 
+However, UCI rules do not accept recumbent bicyles nor tricycles at all. 
 For recumbents, the records are ratified by World Recumbent Racing Association, WRRA. 
+
+## Current records
+* UCI 54.526 km / Bradley Wiggins on 7th June 2015 using 58x14 gearing
+* WRRA recumbent bicycle 50.529 km / Aurélien Bonneteau on 15th May 2009
+* For trikes, WRRA hour record has not been recorded. Hopefully 2016 will change that.
 
 
 >&quot;Only those who will risk going too far can possibly find out how far one can go.&quot;
