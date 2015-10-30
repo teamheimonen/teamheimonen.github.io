@@ -24,7 +24,8 @@ published: true
 * **WRRA age group**: Masters (50 years and ticking)
 
 The record attempt is done within a dedicated schedule slot between "public/open" 200 m and 1 hour races. 
-The time trial will be photographed and filmed according to WRRA requirements, probably so that we'll have a car following 100 meters behind.
+The time trial will be photographed and filmed according to WRRA [rules](http://www.recumbents.com/wrra/rules.htm), 
+probably so that we'll have a car following 100 meters behind.
 
 ## About the hour record
 
@@ -39,14 +40,15 @@ the Union Cycliste Internationale (UCI).&quot;
 
 
 However, UCI rules do not accept recumbent bicyles nor tricycles at all. 
-For recumbents, the records are ratified by World Recumbent Racing Association, WRRA. 
+For recumbents, the records are ratified by [World Recumbent Racing Association](http://www.recumbents.com/wrra/default.htm), WRRA. 
 The land speed records for human powered vehicles (fully faired machines) are ratified by
-International Human Powered Vehicle Association, IHPVA.
+[International Human Powered Vehicle Association](http://ihpva.org), IHPVA.
 
 ## Current records
-* UCI: 54.526 km / Bradley Wiggins on 7th June 2015 using 58x14 gearing
-* IHPVA: 90.60 km / Tom Wittingham on 19th July 2009
-* WRRA recumbent bicycle: 50.529 km / Aurélien Bonneteau on 15th May 2009
+* UCI: 54.526 km / Bradley Wiggins on 7th June 2015 using 58x14 gearing, Lee Valley indoor velodrome
+* UCI Finland National Record: 45.980 km / Jussi Nummikko on 14th August 2015, Helsinki outdoor velodrome
+* IHPVA: 90.60 km / Sam Whittingham on 19th July 2009
+* WRRA recumbent bicycle: 50.529 km / Aurélien Bonneteau on 15th May 2009, indoor Bordeaux Velodrome du Lac
 * WRRA recumbent trike: hour record has not been recorded. Hopefully 2016 will change that.
 
 
