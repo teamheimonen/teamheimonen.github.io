@@ -75,7 +75,7 @@ Bar-end shifters, but what?
 
 ## Brakes
 
-Disc brakes on front wheels, brand and model still open. Shimano XTR short, two finger brake levers.
+Shimano XTR disc brakes with short, two finger brake levers.
 
 ## Helmet
 
