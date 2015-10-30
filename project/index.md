@@ -40,11 +40,14 @@ the Union Cycliste Internationale (UCI).&quot;
 
 However, UCI rules do not accept recumbent bicyles nor tricycles at all. 
 For recumbents, the records are ratified by World Recumbent Racing Association, WRRA. 
+The land speed records for human powered vehicles (fully faired machines) are ratified by
+International Human Powered Vehicle Association, IHPVA.
 
 ## Current records
-* UCI 54.526 km / Bradley Wiggins on 7th June 2015 using 58x14 gearing
-* WRRA recumbent bicycle 50.529 km / Aurélien Bonneteau on 15th May 2009
-* For trikes, WRRA hour record has not been recorded. Hopefully 2016 will change that.
+* UCI: 54.526 km / Bradley Wiggins on 7th June 2015 using 58x14 gearing
+* IHPVA: 90.60 km / Tom Wittingham on 19th July 2009
+* WRRA recumbent bicycle: 50.529 km / Aurélien Bonneteau on 15th May 2009
+* WRRA recumbent trike: hour record has not been recorded. Hopefully 2016 will change that.
 
 
 >&quot;Only those who will risk going too far can possibly find out how far one can go.&quot;
