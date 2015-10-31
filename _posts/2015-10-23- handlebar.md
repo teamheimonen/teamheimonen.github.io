@@ -15,7 +15,6 @@ modified: ""
 imagefeature: ""
 imagecredit: ""
 imagecreditlink: ""
-video: ""
 ---
 
 
