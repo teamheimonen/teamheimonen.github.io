@@ -530,7 +530,7 @@ html {
   border-bottom: 1px dotted;
 }
 .post-title a {
-  text-decoration: none;
+  border-bottom: 0;
 }
 .page-body img {
   max-width: 100%;
