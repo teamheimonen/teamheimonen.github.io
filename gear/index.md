@@ -18,12 +18,12 @@ published: true
 
 ### A little bit of history, how the prototype trike emerged
 
-On late summer 2015 I contacted CARBONTRIKES and asked if they would be willing to customize a race trike for me. 
-Then, while traveling via Stockholm, we organized a *rendez-vous*, a test ride, at their factory in Älvsjö.
+In late summer 2015 I contacted CARBONTRIKES and asked if they would be willing to customize a race trike for me. 
+Then, while travelling via Stockholm, we organized a *rendez-vous*, a test ride, at their factory in Älvsjö.
 It was a rainy day, but nevertheless, I rode two hours on their demo trike, got lost (my speciality) and liked the trike a lot.
 However, I had some ideas about "racing features" for my future race trike.
  
-So, after a test ride I told Lars and Mårten about my plans to set a Hour World Record and what I wished for a trike to be.
+So, after a test ride I told Lars and Mårten about my plans to set the Hour World Record and what I wished for a trike to be.
 They were surprised, but obviously liked my project - we spent most of the afternoon talking about the specs. 
 Then, after two weeks they had already made some tests, gave initial figures of the attainable geometry and we 
 agreed on building my trike. 
