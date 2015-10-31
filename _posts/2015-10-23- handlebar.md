@@ -11,7 +11,6 @@ mathjax: false
 featured: false
 published: true
 type: ""
-modified: ""
 imagefeature: ""
 imagecredit: ""
 imagecreditlink: ""
