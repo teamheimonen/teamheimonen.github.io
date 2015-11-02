@@ -19,7 +19,7 @@ published: true
 * **Place**: Nokian Tyres Test Track, Nokia, Finland
 * **Event**: 2016 Finnish Recumbent Championships
 * **Organized by**: Recumbent Racing Finland ry
-* **Timing authority**: Gerard Arends, Holland
+* **Timing authority**: Gerard Arends, Netherlands
 * **WRRA class**: Trike (unfaired multitrack bicycle)
 * **WRRA age group**: Masters (50 years and ticking)
 
