@@ -529,6 +529,9 @@ html {
 .post-body a, .page-body a {
   border-bottom: 1px dotted;
 }
+.page-body td a {
+  border-bottom: 0;
+}
 .page-body img {
   max-width: 100%;
   margin-bottom: 24px;
