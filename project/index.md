@@ -19,8 +19,8 @@ published: true
 * **Place**: Nokian Tyres Test Track, Nokia, Finland
 * **Event**: 2016 Finnish Recumbent Championships
 * **Organized by**: Recumbent Racing Finland ry
-* **Timing authority**: Gerard Arends, Holland
-* **WRRA class**: Trike (unfaired multitrack bicycle)
+* **Timing authority**: Gerard Arends, Netherlands
+* **WRRA class**: Trike (non-faired multitrack bicycle)
 * **WRRA age group**: Masters (50 years and ticking)
 
 The record attempt is done within a dedicated schedule slot between "public/open" 200 m and 1 hour races. 
