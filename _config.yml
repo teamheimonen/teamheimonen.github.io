@@ -34,11 +34,13 @@ owner:
   stackexchange: 
   linkedin:       https://fr.linkedin.com/pub/pekka-heimonen/33/821/404
   instagram:      https://instagram.com/heimonen/
+  strava:         https://www.strava.com/athletes/2250684
+  trainerroad:    https://www.trainerroad.com/career/heimonen
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/117623711152594064565
-
+  google_plus:    
+  
 # Analytics and webmaster tools stuff goes here
 google_analytics:    UA-69496132-1
 google_verify:      
@@ -60,6 +62,8 @@ links:
     url: /partners
   - title: <i class="icon-wrench"></i> My Gear
     url: /gear
+  - title: <i class="icon-wrench"></i> My Recovery
+    url: /recovery
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris
