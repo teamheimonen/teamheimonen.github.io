@@ -29,7 +29,7 @@ Then, after two weeks they had already made some tests, gave initial figures of 
 agreed on building my trike. 
 
 The building has already started, I have received a photo of the handlebar proto (which I'm not allowed to publish),
-new plans and developments are going on - these guys are marvellous, they are really enthusiastic about they work. 
+new plans and developments are going on - these guys are marvellous, they are really enthusiastic about their work. 
 It is clear they really love what they do. 
 
 Unfortunately, there's a production queue, so I have to wait until February to get my trike ready.
