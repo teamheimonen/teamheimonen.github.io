@@ -2,7 +2,7 @@
 layout: page
 title: Bio
 description: "I am. "
-headline: "Got to get up and try"
+headline: "Better get up and ride"
 categories: personal
 comments: false
 mathjax: null

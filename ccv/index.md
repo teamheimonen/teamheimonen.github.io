@@ -2,7 +2,7 @@
 layout: page
 title: My Cycling CV
 description: "My cycling achievements"
-headline: "Better get up and try"
+headline: "Better get up and ride"
 categories: personal
 tags: 
   - cycling
