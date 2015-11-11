@@ -21,7 +21,7 @@ Then I got an idea to attempt to make a Finnish national record, and as one thin
 the WRRA One hour record. You can read more about this record from [a dedicated page](../project).
 
 I have contracted CARBONTRIKES to build me a custom racing trike and currently following a training plan by TrainerRoad. 
-I'm dead serious about this.
+I'm dead serious about this. To give things some perpective, I've written a page about my previous post-stroke [cycling achievements](/ccv).
 
 ## Why, you ask
 
