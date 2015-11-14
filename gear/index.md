@@ -23,7 +23,7 @@ Then, while travelling via Stockholm, we organized a *rendez-vous*, a test ride,
 It was a rainy day, but nevertheless, I rode two hours on their demo trike, got lost (my speciality) and liked the trike a lot.
 However, I had some ideas about "racing features" for my future race trike.
  
-So, after a test ride I told Lars and Mårten about my plans to set the Hour World Record and what I wished for a trike to be.
+So, after the test ride I told Lars and Mårten about my plans to set the Hour World Record and what I wished for a trike to be.
 They were surprised, but obviously liked my project - we spent most of the afternoon talking about the specs. 
 Then, after two weeks they had already made some tests, gave initial figures of the attainable geometry and we 
 agreed on building my trike. 
