@@ -177,6 +177,7 @@ input[type=number]::-webkit-outer-spin-button {
   position: absolute;
   content: "\f107";
   font-family: 'FontAwesome';
+  content: "MENU";
   width: 1em;
   height: 1em;
   line-height: 1em;
@@ -3849,16 +3850,16 @@ body {
 a#slide{
     position:fixed;
     display:block;
-    width:40px;
+    width:120px;
     height:40px;
     top:10px;
     left:10px;
     text-align:center;
     font:22px/40px "icon";
     color:#fff;
-    background:#262626;
+    background: #ff0f0f; /*#262626; */
     border-radius:3px;
-    z-index:31
+    z-index:31;
     }
 
 a#slide:hover{
@@ -3866,14 +3867,18 @@ a#slide:hover{
     }
 
 a#slide:after{
+	/*
     font-family: 'FontAwesome';
     content:"\f0c9";
+	*/
+	font:900 16px/1em "Lato",sans-serif;
+	content: "MENU";
     cursor: pointer;
     }
 
 a#slide.slide:after{
     position:absolute;
-    font-family: 'FontAwesome';
+    font: 900 14px/1.2em 'FontAwesome';
     content:"\f00d";
     cursor: pointer;
     /* top:11px; */
@@ -3882,15 +3887,16 @@ a#slide.slide:after{
     height:40px;
     margin:0 0 0 -20px;
 	font-size: 32px !important;
-    /*font:18px "icon" !important;*/
-    vertical-align:middle
+    /* font:18px "icon" !important; */
+    vertical-align:middle;
+	z-index:350;
     }
 
 /*      Sidebar     */
 
 #sidebar{
     position:fixed;
-    overflow-y:scroll;
+    overflow-y:auto;
     height:100%;
     width:298px;
     padding:40px 30px 0;
@@ -3984,8 +3990,11 @@ a#slide.slide:after{
     }
 
 a#slide.slide{
-    left:308px;
-    pointer-events:none
+	width: 40px;
+    left: 308px; /* 308px; */
+	background: #0f0f0f;
+	color: #999;
+    pointer-events: none;
     }
 
 body.slide{

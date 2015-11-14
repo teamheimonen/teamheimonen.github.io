@@ -13,7 +13,7 @@ featured: false
 published: true
 ---
 
-My colleague sent me an interesting link, which claims that leg power is the ultimate goodie for your brain! It's one more reason to keep on riding, 
+A colleague sent me an interesting link, which claims that leg power is the ultimate goodie for your brain! It's one more reason to keep on riding, 
 keep on moving through whatever obstacles may rise. 
 
 A scientifial study executed by researchers at King’s College London, using a sample of 324 identical twins shows 
