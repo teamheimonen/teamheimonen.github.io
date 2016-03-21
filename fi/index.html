@@ -5,32 +5,6 @@ description: "Deterministic chaos"
 headline: Better get up and ride
 tags: [Heimonen, Recumbent, Recumbents, WRRA, Tadpole trike]
 ---
-<div class="row">
-	<article class="post col-md-10 col-md-offset-1">
-		<header class="post-header">
-			<h2 class="post-title text-center super lighter">
-				Terve !
-			</h2>
-            <div class="post-body bordered-bottom">
-				<p class="lead light">
-				Nimeni on <a href="/fi/bio">Pekka Heimonen</a>, olen aktiivinen pyöräilyn harrastaja, jolla on ollut kaksi aivoverenkiertohäiriötä, 
-				<a href="/fi/avh">AVH:ta</a>, 
-				toiselta nimeltään aivoinfarktia. Vuonna 2016 aion ajaa kolmipyöräisellä nojapyörällä <a href="/fi/projekti">tunnin ajon maailmanennätyksen</a>
-				WRRA (World Recumbent Racing Association) kattojärjestön säännöillä. 				 
-				</p>
-				<p class="light">
-					Ennätysprojektini tarkoitus on saada huomiota kohonneen verenpaineen vaaroille ja samalla
-					haluan rohkaista kaikkia AVH-potilaita liikkumaan aktiivisesti, sillä AVH:n jälkeen parasta 
-					kuntoutusta on koordinaatiota, lihaskuntoa ja psyykettä 
-					parantava aktiivinen liikunta, omassa tapauksessani pyöräily.
-				</p>
-				<p class="light">
-					Alla listaa ja lyhyitä otteita blogista, johon kertyy juttuja sitä mukaa kun projektini etenee.
-				</p>
-			</div>
-		</header>
-	</article>
-</div>
 
 	{% for post in site.categories.fi %}
 		{% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
