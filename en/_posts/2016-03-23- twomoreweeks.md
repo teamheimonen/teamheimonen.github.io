@@ -15,3 +15,6 @@ published: true
 ---
 
 Just received a status update concerning my trike: it's supposed to be ready within two weeks. Yes!!
+Teaser image below.
+
+![Rear wheel with carbon discs](/images/carbontrikes_wheelcover_inside.jpg "Rear wheel")

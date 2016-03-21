@@ -16,4 +16,6 @@ published: true
 
 Sain juuri tiedon, että kilpuritrikeni odotettu valmistumisaika on parin viikon kuluttua.
 
-Jeees! 
+Jeees! Teaserikuva alla.
+
+![Hiilikuitulevytetty takakiekko](/images/carbontrikes_wheelcover_inside.jpg "Takakiekko")
