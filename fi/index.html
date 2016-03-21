@@ -31,7 +31,7 @@ tags: [Heimonen, Recumbent, Recumbents, WRRA, Tadpole trike]
 		</header>
 	</article>
 </div>
-			
+
 	{% for post in site.categories.fi %}
 		{% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
 		{% assign modifiedtime = post.modified | date: "%Y%m%d" %}
@@ -89,7 +89,7 @@ tags: [Heimonen, Recumbent, Recumbents, WRRA, Tadpole trike]
 	                        <a href="{{ site.url }}{{ post.url }}" style="color: #c91b26"><i class="icon-retweet"></i> "{{ post.excerpt | strip_html }}"</a>
 	                    </h2>
 	                    <p class="light small text-center">
-	                        Share this Status
+	                        Share this Status-postaus
 	                    </p>
 	                    <ul class="social-mini text-center">
 	                        <li>
