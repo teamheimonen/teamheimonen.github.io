@@ -10,13 +10,25 @@
     <nav id="navigation">
     <h2>MENU</h2>
     <hr>
-{% for link in site.links %}
+{% if page.url contains '/en' %}
+	{% for link in site.links %}
             <li>{% if link.external %}
                     <a href="{{ link.url }}">{{ link.title }}</a>
                 {% else %}
                     <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
                 {% endif %} </li>
-{% endfor %}            
+	{% endfor %}
+{% endif%}	
+{% if page.url contains '/fi' %}
+	{% for link in site.links-fi %}
+            <li>{% if link.external %}
+                    <a href="{{ link.url }}">{{ link.title }}</a>
+                {% else %}
+                    <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+                {% endif %} </li>
+	{% endfor %}
+{% endif%}	
+	
            <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
     </nav>
     

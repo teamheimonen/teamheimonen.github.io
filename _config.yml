@@ -60,10 +60,26 @@ links:
     url: /about
   - title: <i class="icon-globe"></i> Partners in crime
     url: /partners
-  - title: <i class="icon-wrench"></i> My Gear
+  - title: <i class="icon-wrench"></i> The trike etc
     url: /gear
   - title: <i class="icon-flag-checkered"></i> CCV
     url: /ccv
+
+links-fi:
+  - title: <i class="icon-home"></i> Home
+    url: /
+    external: false
+    icon: home
+  - title: <i class="icon-trophy"></i> Tunnin aika-ajo
+    url: /fi/projekti
+  - title: <i class="icon-user"></i> Bio
+    url: /fi/bio
+  - title: <i class="icon-globe"></i> Kumppanit
+    url: /fi/kumppanit
+  - title: <i class="icon-wrench"></i> Trike etc
+    url: /fi/kamat
+  - title: <i class="icon-flag-checkered"></i> CCV
+    url: /fi/ccv
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris
@@ -71,7 +87,7 @@ future:      true
 #was pygments
 highlighter: pygments 
 markdown:    kramdown
-paginate:    6
+paginate:    20
 paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
