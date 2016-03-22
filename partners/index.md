@@ -13,13 +13,21 @@ featured: false
 published: true
 ---
 
-These organizations, associations and institutions have enabled my Hour Record attempt on 2016:
+## Official patron : Finnish Brain Association
 
-|[![CARBONTRIKES](/images/Carbontrikes.png)](http://carbontrikes.com)
-|[![Vitec](/images/vitec.png)](http://www.vitec.se)
-|[![TrainerRoad](/images/trainerroad.png)](http://trainerroad.com)
-|[![RRF](/images/rrf.png)](http://rrfi.fi/)
-|[![WRRA](/images/wrra2.gif)](http://www.recumbents.com/wrra)
+[![Finnish Brain Association](/images/Aivoliitto_finnish_brain_association_RGB.png)](http://korvaamatonkovalevy.fi)
+
+## Sponsors and partners
+
+[![CARBONTRIKES](/images/Carbontrikes.png)](http://carbontrikes.com)
+
+[![Vitec](/images/vitec.png)](http://www.vitec.se)
+
+[![TrainerRoad](/images/trainerroad.png)](http://trainerroad.com)
+
+[![RRF](/images/rrf.png)](http://rrfi.fi/)
+
+[![WRRA](/images/wrra2.gif)](http://www.recumbents.com/wrra)
 
 
 
