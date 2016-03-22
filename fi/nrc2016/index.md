@@ -69,12 +69,15 @@ lämpimästi tervetulleita - ihan ilmaiseksi.
 - seniorit (51 v ja yli)
 - miehet ja naiset erikseen
 
-## Nojapyöräluokat (WRRA)
-- kattamattomat
-- kattamattomat "triket" (3- ja useampipyöräiset)
-- taka- tai etukatetut
+## Pyöräluokat 
+- kattamattomat (WRRA)
+- kattamattomat triket (3- ja useampipyöräiset, WRRA)
+- taka- tai etukatetut (WRRA)
 - täyskatetut (ei WRRA -luokitusta)
 - pystypyörät (perinteiset polkupyörät, ei WRRA -luokitusta)
+
+WRRA tarkoittaa luokitusta, joka on World Recumbent Racing Association 
+[säännösten mukainen](http://www.recumbents.com/wrra/rules.htm).
 
 ## Ilmoittautuminen
 Lähetä sähköpostilla (kinneristi(at)gmail.com) seuraavat tiedot:

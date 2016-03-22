@@ -76,11 +76,15 @@ One more thing: racing is not mandatory, curious audience is always welcome - fr
 - Adult - 17 years old to 50 years old
 - Masters - 51 years and above
 
-### Vehicle Classification (WRRA)
-- Unfaired Recumbent 
-- Unfaired Trike Recumbent 
-- Tail or Nose Faired Recumbent
-- Full Faired Recumbent a.k.a. velomobiles (no WRRA classification)
+### Vehicle Classification
+- Unfaired Recumbent (WRRA) 
+- Unfaired Trike Recumbent (WRRA)
+- Tail or Nose Faired Recumbent (WRRA)
+- Fully Faired Recumbent a.k.a. velomobile (non WRRA)
+- Upright (or standard, traditional) bicycle (non WRRA)
+ 
+WRRA above means classification according to World Recumbent Racing Association 
+[rules](http://www.recumbents.com/wrra/rules.htm).
 
 ### Registration
 Send an email message (kinneristi(at)gmail.com) with following information:
