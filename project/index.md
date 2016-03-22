@@ -17,11 +17,14 @@ published: true
 
 * **Time**: Saturday, August 6th, 2016
 * **Place**: Nokian Tyres Test Track, Nokia, Finland
-* **Event**: 2016 Finnish Recumbent Championships
+* **Event**: Nordic Recumbent Championships 2016
 * **Organized by**: Recumbent Racing Finland ry
 * **Timing authority**: Gerard Arends, Netherlands
 * **WRRA class**: Trike (non-faired multitrack bicycle)
 * **WRRA age group**: Masters (50 years and ticking)
+* **Officials**: Gerard Arends, Teppo Mäkelä
+
+![Circuit](/images/Nokia.jpg "Map of the Nokia test track during the NRC")
 
 The record attempt is done within a dedicated schedule slot between "public/open" 200 m and 1 hour races. 
 The time trial will be photographed and filmed according to WRRA [rules](http://www.recumbents.com/wrra/rules.htm), 

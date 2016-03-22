@@ -16,16 +16,19 @@ published: true
 ## Ennätysyritys - Tunnin aika-ajo
 
 * **Aika**: Lauantai, 6. elokuuta 2016
-* **Paikka**: Nokian Renkaiden testirata, Nokia
-* **Tapahtuma**: Nojapyöräilyn Suomenmestaruuskilpailu 2016 
+* **Paikka**: Nokian Renkaiden testirata, Testiradantie 57, 37130 Nokia
+* **Tapahtuma**: Nojapyöräilyn Pohjoismaiden Mestaruuskilpailu 2016 
 * **Järjestäjä**: Recumbent Racing Finland ry
 * **Ajanotto**: Gerard Arends, Alankomaat
 * **WRRA luokka**: Trike (kattamaton kolmipyöräinen nojapyörä)
 * **WRRA ikäryhmä**: Masters (yli 50 vuotta)
+* **Viralliset valvojat**: Gerard Arends, Teppo Mäkelä
 
-Ennätysyritys ajetaan lauantaina 200 m ja tunnin ajojen Suomenmestaruuslähtöjen välissä siten, että
+![Kartta](/images/Nokia.jpg "Rata-alueen kartta")
+
+Ennätysyritys ajetaan lauantaina 200 m ja tunnin ajojen PM-lähtöjen välissä siten, että
 radalla ei ole samaan aikaan muita. Ennätysajo videoidaan ja valokuvataan WRRA:n [sääntöjen mukaan](http://www.recumbents.com/wrra/rules.htm), 
-luultavasti niin, että kamera-auto ajaa 100 metriä perässäni.
+luultavasti niin, että kamera-auto ajaa noin 100 metriä perässäni.
 
 ## Tunnin aika-ajo
 
@@ -38,9 +41,11 @@ There are several records, the most famous of  which is for upright bicycles mee
 the Union Cycliste Internationale (UCI).&quot;
 <cite><small>Wikipedia</small></cite>
 
-UCI:n ennätykset ovat siis tunnetuimpia ja arvostetuimpia. UCI muutti sääntöjä viime vuonna siten, että
-nyt hieman paremman aerodynamiikan pyörätkin ovat sallittuja, niinpä 2015 onkin UCI:n ennätystä parannettu
-useaan otteeseen. UCI:n säännöt eivät kuitenkaan salli nojapyöriä. Nojapyöräilyn ennätyksiä kirjaa ja valvoo
+UCI:n ennätykset ovat siis tunnetuimpia ja arvostetuimpia. UCI muutti sääntöjä vuonna 2014 siten, että
+nyt hieman paremman aerodynamiikan pyörätkin ovat sallittuja, niinpä 2015 UCI:n ennätystä parannettiinkin
+useaan otteeseen. 
+
+UCI:n säännöt eivät kuitenkaan salli nojapyöriä. Nojapyöräilyn ennätyksiä kirjaa ja valvoo
 WRRA [World Recumbent Racing Association](http://www.recumbents.com/wrra/default.htm). Nojapyörien lisäksi oma
 laiteryhmänsä ovat vielä ihmisvoimin liikkuvat ohjukset, täysin katetut poljettavat laitteet. Näiden ennätyksiä
 kirjaa [International Human Powered Vehicle Association](http://ihpva.org), IHPVA.

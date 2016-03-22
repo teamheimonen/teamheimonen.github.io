@@ -56,6 +56,8 @@ links:
     icon: home
   - title: <i class="icon-trophy"></i> Hour record attempt
     url: /project
+  - title: <i class="icon-trophy"></i> Nordic Championships
+    url: /nrc2016
   - title: <i class="icon-user"></i> Bio
     url: /about
   - title: <i class="icon-globe"></i> Partners in crime
@@ -72,6 +74,8 @@ links-fi:
     icon: home
   - title: <i class="icon-trophy"></i> Tunnin aika-ajo
     url: /fi/projekti
+  - title: <i class="icon-trophy"></i> Nojapyörien PM-kilpailu
+    url: /fi/nrc2016
   - title: <i class="icon-user"></i> Bio
     url: /fi/bio
   - title: <i class="icon-globe"></i> Kumppanit
