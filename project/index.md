@@ -15,6 +15,9 @@ published: true
 
 ## The attempt - One Hour Time Trial
 
+The official patron for my record attempt event is 
+[Finnish Brain Association](http://korvaamatonkovalevy.fi), Aivoliitto ry.
+
 * **Time**: Saturday, August 6th, 2016
 * **Place**: Nokian Tyres Test Track, Nokia, Finland
 * **Event**: Nordic Recumbent Championships 2016

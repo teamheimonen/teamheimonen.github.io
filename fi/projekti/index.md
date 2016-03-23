@@ -15,6 +15,9 @@ published: true
 
 ## Ennätysyritys - Tunnin aika-ajo
 
+Ennätysyritykseni virallisena suojelina toimii
+[Aivoliitto ry](http://korvaamatonkovalevy.fi).
+
 * **Aika**: Lauantai, 6. elokuuta 2016
 * **Paikka**: Nokian Renkaiden testirata, Testiradantie 57, 37130 Nokia
 * **Tapahtuma**: Nojapyöräilyn Pohjoismaiden Mestaruuskilpailu 2016 
