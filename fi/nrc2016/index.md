@@ -40,6 +40,7 @@ tai leppoisasti rupatellen. 12 tunnin ajossa nopeudet ovat tyypillisesti 15-60 k
 joten mukaan mahtuu ja mukaan toivotaan monenlaisia ja monentasoisia polkijoita.
 
 ![Alueen järjestelyt](/images/Nokia.jpg "Nokian renkaiden testiradan järjestelyt")
+![Rataprofiili](/images/Nokian-radan-profiili.jpg "Rataprofiili")
 
 Tapahtuma on avoin kaikille, mutta PM-titteli myönnetään tietenkin vain 
 pohjoismaalaisille kilpailijoille.

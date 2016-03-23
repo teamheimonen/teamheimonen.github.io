@@ -43,6 +43,7 @@ in a marathon event and take the opportunity to challenge their personal limits
 in a safe environment. 
 
 ![Circuit](/images/Nokia.jpg "Nokian tyres test track during the NRC")
+![Track profile](/images/Nokian-radan-profiili.jpg "Track profile")
 
 In the 12 hour event the average speed varies from 15 km/h to 60 km/h, so
 you really don't need to be a hard core racer to participate - just come along and 
