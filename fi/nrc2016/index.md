@@ -58,6 +58,7 @@ lämpimästi tervetulleita - ihan ilmaiseksi.
 
 ## Lauantai 6.8.
 - 200 metriä lentävällä lähdöllä
+- tunnin ajon maailmanennätysyritys (WRRA / masters / trike)
 - 1 tunnin ajo
 
 ## Sunnuntai 7.8.

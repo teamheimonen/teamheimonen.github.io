@@ -65,6 +65,7 @@ One more thing: racing is not mandatory, curious audience is always welcome - fr
 
 ### Saturday 6th of August
 - 200 meters sprint with flying start
+- hour record attempt (WRRA / masters / trike)
 - 1 hour race
 
 ### Sunday 7th of August
