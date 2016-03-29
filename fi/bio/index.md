@@ -23,7 +23,7 @@ tasapaino-ongelmat tai vaikka kehon toisen puolen huono toiminta ei estä turval
 ei myöskään ole olemassa satulan aiheuttamaa epämukavuutta eikä kipua istumalihaksiston suunnalla vaikka matka olisi pitkä ja
 lenkki kestäisi puoli päivää.
 
-##Trike
+## Trike
 
 Trikeen liittyy myös tämän saitin syvin olemus: tähtäimessäni oleva WRRA:n tunnin ajon maailmanennätys Trike-luokassa ja Masters ikäryhmässä.
 WRRA on World Recumbent Racing Association, organisaatio, joka ratifioi ja pitää kirjaa nojapyöräilyn maailmanennätyksistä ja
