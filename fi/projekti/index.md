@@ -29,7 +29,7 @@ Ennätysyritykseni virallisena suojelijana toimii
 
 ![Kartta](/images/Nokia.jpg "Rata-alueen kartta")
 
-Ennätysyritys ajetaan lauantaina 200 m ja tunnin ajojen PM-lähtöjen välissä siten, että
+Teen ennätysyritykseni lauantaina 200 m ja tunnin ajojen PM-lähtöjen välissä siten, että
 radalla ei ole samaan aikaan muita. Ennätysajo videoidaan ja valokuvataan WRRA:n [sääntöjen mukaan](http://www.recumbents.com/wrra/rules.htm), 
 luultavasti niin, että kamera-auto ajaa noin 100 metriä perässäni.
 
