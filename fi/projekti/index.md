@@ -15,7 +15,7 @@ published: true
 
 ## Ennätysyritys - Tunnin aika-ajo
 
-Ennätysyritykseni virallisena suojelina toimii
+Ennätysyritykseni virallisena suojelijana toimii
 [Aivoliitto ry](http://korvaamatonkovalevy.fi).
 
 * **Aika**: Lauantai, 6. elokuuta 2016
