@@ -614,6 +614,14 @@ div.lang a {
   position: relative;
   z-index: 2;
 }
+
+#footer table.partners {
+  width: 100%;
+}
+#footer table.partners td {
+  background-color: #111;
+}
+
 /* ---------------- */
 /* THEME UTILITITES */
 /* ---------------- */
@@ -3262,7 +3270,7 @@ img.mfp-img {
 /* - Menu - */
 .menu-items {
   margin: 0;
-  padding: 0 0 48px;
+  padding: 0 0 24px;
   list-style-type: none;
 }
 .menu-items li {
