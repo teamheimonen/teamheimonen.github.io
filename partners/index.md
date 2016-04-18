@@ -30,6 +30,10 @@ published: true
 </span>
 
 <span class="imglink">
+[![Suuntaus](/images/suuntaus-logo.png)](http://suuntaus.fi)
+</span>
+
+<span class="imglink">
 [![TrainerRoad](/images/trainerroad.png)](http://trainerroad.com)
 </span>
 
