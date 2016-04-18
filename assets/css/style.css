@@ -542,6 +542,10 @@ div.lang a {
 .post-body a, .page-body a {
   border-bottom: 1px dotted;
 }
+.post-body .imglink a, .page-body .imglink a {
+  border-bottom: 0;
+}
+
 .page-body td a {
   border-bottom: 0;
 }
