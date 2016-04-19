@@ -619,7 +619,7 @@ div.lang a {
   width: 100%;
 }
 #footer table.partners td {
-  background-color: #111;
+  background: rgba(2,2,2,0.5);
 }
 
 /* ---------------- */
@@ -4090,5 +4090,9 @@ body.slide{
         position:absolute    
         }
 
-
+@media screen and (max-width:760px) {
+  #footer table.partners {
+    display: none;
+  }
+}
 /*      End-Responsive      */
