@@ -615,11 +615,8 @@ div.lang a {
   z-index: 2;
 }
 
-#footer table.partners {
-  width: 100%;
-}
-#footer table.partners td {
-  background: rgba(2,2,2,0.5);
+#footer div.partners a img {
+  padding: 0px 5px 0px 5px;
 }
 
 /* ---------------- */
@@ -4090,9 +4087,4 @@ body.slide{
         position:absolute    
         }
 
-@media screen and (max-width:760px) {
-  #footer table.partners {
-    display: none;
-  }
-}
 /*      End-Responsive      */
