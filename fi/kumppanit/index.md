@@ -23,6 +23,11 @@ published: true
 [![CARBONTRIKES](/images/Carbontrikes.png)](http://carbontrikes.com)
 </span>
 
+
+<span class="imglink">
+[![Wheel Energy](/images/wheelenergy.png)](http://www.wheelenergy.com)
+</span>
+
 <span class="imglink">
 [![Vitec](/images/vitec.png)](http://www.vitec.se)
 </span>
