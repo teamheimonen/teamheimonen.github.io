@@ -13,7 +13,9 @@ featured: false
 published: true
 ---
 
-## Official patron : Finnish Brain Association
+## Official patron : 
+
+## Finnish Brain Association
 
 <span class="imglink">
 [![Finnish Brain Association](/images/Aivoliitto_finnish_brain_association_RGB.png)](http://korvaamatonkovalevy.fi)
