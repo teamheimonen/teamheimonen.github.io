@@ -29,6 +29,14 @@ published: true
 </span>
 
 <span class="imglink">
+[![Velosport](/images/velosport-logo-g.png)](http://velosport.fi)
+</span>
+
+<span class="imglink">
+[![LOOK](/images/look-logo.gif)](http://lookcycle.com)
+</span>
+
+<span class="imglink">
 [![Vitec](/images/vitec.png)](http://www.vitec.se)
 </span>
 
