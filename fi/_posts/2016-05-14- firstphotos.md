@@ -35,3 +35,5 @@ Kuvia on jo kertynyt:
 ![Photo 4](/images/2016May/IMG_0120.jpg)
 
 ![Photo 5](/images/2016May/IMG_0114.jpg)
+
+![Photo 6](/images/2016May/IMG_0122.jpg)
