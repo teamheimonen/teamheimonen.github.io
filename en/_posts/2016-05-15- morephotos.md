@@ -3,7 +3,7 @@ layout: post
 title: More Photos
 lang: en
 description: "More photos from the second ride"
-headline: "Easy sunday ride images"
+headline: "Better get up and ride"
 categories: photos
 tags: 
   - photos

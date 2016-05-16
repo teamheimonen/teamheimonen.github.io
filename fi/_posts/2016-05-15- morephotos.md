@@ -3,7 +3,7 @@ layout: post
 title: Lisää kuvia
 lang: en
 description: "Lisää kuvia toiselta treenilenkiltä"
-headline: "Sunnuntain lenkin tunnelmia"
+headline: "Better get up and ride"
 categories: photos
 tags: 
   - photos
