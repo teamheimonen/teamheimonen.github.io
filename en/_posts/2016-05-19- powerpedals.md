@@ -22,7 +22,7 @@ They also look very *aerodynamic*, specifically very *"recumbent aerodynamic"* a
 pedals is more or less totally closed, which potentially is very beneficial considering the fact that the shoe 
 orientation on recumbents is "bottom forward".
 
-![Velosport Look](/images/2016May/IMG_20160519_063255_picmonkeyed.jpg)
+![Velosport Look](/images/2016May/IMG_7685.jpg)
 
 The grand champion of Finnish track cycling, Mr Raimo Nieminen at Velosport, 
 handing the ANT+ LOOK Keo Power pedals to the happy receiver: 

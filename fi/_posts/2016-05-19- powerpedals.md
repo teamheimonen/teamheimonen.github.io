@@ -22,7 +22,7 @@ hienoilta ja aerodynaamisilta. Itse asiassa ne näyttävät siltä, että ne saa
 aerodynaamista muotoa erityisesti siinä asennossa, jossa kenkä nojapyörissä on - siis pohja suoraan eteenpäin.
 
 Näissä polkimissa "pohja" on umpinainen, joten sinne ei pääse muodostumaan tehoa syövää tuulipussia.
-![Velosport Look](/images/2016May/IMG_20160519_063255_picmonkeyed.jpg)
+![Velosport Look](/images/2016May/IMG_7685.jpg)
 
 Suomalaisen ratapyöräilyn grand champion Raimo Nieminen luovutti Velosportissa projektini käyttöön uuden uutukaiset ANT+ LOOK Keo Powerit 
 ![Velosport Look](/images/2016May/Velosport Team Heimonen Look-0814.jpg)
