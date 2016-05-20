@@ -14,8 +14,8 @@ published: true
 ---
 
 Teamheimonen on saanut uusia loistavia yhteistyökumppaneita: Velosport ja LOOK ovat nyt mukana hankkeessa!
-Velosportin Raimo on moninkertainen aika-ajon Suomen mestari ja on nyt auttamassa ja neuvomassa minua valmentautumisessa ja
-treenaamisessa - siis yksinkertaisesti aivan parasta mahdollista tukea hankkeelle!
+Velosportin Raimo Nieminen on kymmenkertainen rata-ajon Suomen mestari ja on nyt auttamassa ja neuvomassa minua 
+ajotekniikassa, valmentautumisessa ja treenaamisessa - siis yksinkertaisesti aivan parasta mahdollista tukea hankkeelle!
 
 ![Velosport](/images/velosport-logo.png)
 
