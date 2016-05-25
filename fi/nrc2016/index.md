@@ -57,13 +57,39 @@ lämpimästi tervetulleita - ihan ilmaiseksi.
 ![Kilpailu on ohi](/images/GOPR1278.jpg "Kilpailu on ohi (2015)")
 
 ## Lauantai 6.8.
-- 200 metriä lentävällä lähdöllä
-- tunnin ajon maailmanennätysyritys (WRRA / masters / trike)
-- 1 tunnin ajo
+
+| Klo ................ | ..........tapahtuu................. |
+| ------------- | ----------------------------------- |
+| 9:00	|  Rata-alueen portti avautuu |
+| 10:00 – 11:00 |  Ilmoittautuminen (200 m, 1 h, 6 h, 12 h kilpailut) |
+| 11:00 |  Tapahtuman avaus |
+| 11:30 | 	200 metrin osallistujainfo ja aloitus |
+| 14:30 – 17:00 | 	Varikolla tapahtuu |
+| | *	Rompetori: tuo itsellesi tarpeetonta fillarikamaa myyntiin |
+| | *	Pohjoismaiden hitain 2-pyöräisellä nojakilla ajaja – kilpailu |
+| | *	Pyörien koeajomahdollisuus |
+| 15:30 – 16:30 | 	Tunnin ajon maailmanennätysyritys (Pekka Heimonen): | 
+| | *	WRRA trike recumbent, 1 hour, Masters  |
+| 17:00 | 	Tunnin aika-ajo alkaa |
+| 18:00 | 	Tunnin aika-ajo päättyy |
+| 18:15 | 	Palkintojenjako (200 m ja 1 h) |
+| 18:30 alkaen | Saunomismahdollisuus Alisniemessä |
 
 ## Sunnuntai 7.8.
-- 6 tunnin ajo 
-- 12 tunnin ajo
+
+| Klo ................ | ..........tapahtuu................. |
+| ------------- | ----------------------------------- |
+| 7:00 – 7:45 |	Saapuminen ja ilmoittautuminen (12 h) |
+| 8:00 |	12 tunnin ajo alkaa |
+| 9:00 – 9:45 |	Ilmoittautuminen (6 h) |
+| 10:00 |	6 tunnin ajo alkaa |
+| 16:00 |	6 tunnin ajo päättyy |
+| 16:15 |	Palkintojenjako (6 h) |
+| 20:00 |	12 tunnin ajo päättyy |
+| 20:00 |	Palkintojenjako (12 h) |
+| 20:00 alkaen |	Saunomismahdollisuus Alisniemessä |
+| 21:00 |	Rata-alueen portti suljetaan |
+
 
 ## Ikäsarjat/luokat (WRRA:n luokituksen mukaisesti)
 - juniorit (16 v ja alle)

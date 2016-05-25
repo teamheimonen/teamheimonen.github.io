@@ -61,16 +61,41 @@ One more thing: racing is not mandatory, curious audience is always welcome - fr
 
 ![Race is over](/images/GOPR1278.jpg "Race is over")
 
-## Initial (official) schedule
+## Official schedule
 
 ### Saturday 6th of August
-- 200 meters sprint with flying start
-- hour record attempt (WRRA / masters / trike)
-- 1 hour race
+
+| Time ................ | ..........program................. |
+| ------------- | ----------------------------------- |
+| 9:00	|  Track gate opens |
+| 10:00 – 11:00 | Registration and control (200 m, 1 h, 6 h, 12 h races) |
+| 11:00 | Official event opening |
+| 11:30 | 	200 meter competitor info and start |
+| 14:30 – 17:00 | Unofficial events on the track area  |
+| | *	Swap meet: Sell your second hand cycling parts and material |
+| | *	"Slowest 2 wheeled bent cyclist in Nordic" competition |
+| | *	Recumbent test rides |
+| 15:30 – 16:30 | Hour record attempt (Pekka Heimonen): | 
+| | *	WRRA trike recumbent, 1 hour, Masters  |
+| 17:00 | 1 hour race starts |
+| 18:00 | 1 hour race ends |
+| 18:15 | Podium (200 m ja 1 h) |
+| 18:30 forward |	Sauna meeting at Alisniemi (5 km from the track) |
 
 ### Sunday 7th of August
-- 6 hours race
-- 12 hours race
+
+| Time ................ | ..........program................. |
+| ------------- | ----------------------------------- |
+| 7:00 – 7:45 |	Registration and control (12 h) |
+| 8:00 |	12 hour race starts |
+| 9:00 – 9:45 |	Registration and control (6 h) |
+| 10:00 |	6 hour race starts |
+| 16:00 |	6 hour race ends |
+| 16:15 |	Podium (6 h) |
+| 20:00 |	12 hour race ends |
+| 20:00 |	Podium (12 h) |
+| 20:00 forward |	Sauna meeting at Alisniemi (5 km from the track) |
+| 21:00 |	Track gate is closed |
 
 ### Rider Classification (WRRA)
 - Men or Women
