@@ -2,7 +2,7 @@
 layout: post
 title: World Championship 2016
 lang: fi
-description: "UFO-miehen aika-ajokypärä"
+description: "Wielercircuit - Sloten, Amsterdam"
 headline: "Better get up and ride"
 categories: races
 tags: 
