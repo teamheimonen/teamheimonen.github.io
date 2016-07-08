@@ -90,7 +90,7 @@ pahanolon tunteen vallassa. Kädet tärisi aika pitkään tuon jäkeen.
 Lopputuloksena ärsyttävän pieni kierroskeskari 44.4 kmh ja sijoitus sama eli 44/57 - 
 osallistujia oli tosiaan aika vähän. Tässä olisi hurjasti parannettavaa - kun katsoo tehokäppyrää suorituksesta, niin
 tehot on ollut päällä vain noin puolella kierroksella, mutkissa en tosiaan uskaltanut polkea. Parhaan kierroksen
-keskiteho jäi selvästi alle 600W. 
+maksimitehokin jäi alle 600 watin. 
 
 ![Velodromilla](/images/Cyclevision2016/P_20160702_154608.jpg)
 
